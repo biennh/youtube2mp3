@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+title: HBLab
+description: AI online lab
+## Welcome to HBLab homepage
 
 You can use the [editor on GitHub](https://github.com/poseidonnh/hblab/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
