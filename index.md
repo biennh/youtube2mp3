@@ -5,9 +5,15 @@ You can use the [editor on GitHub](https://github.com/poseidonnh/hblab/edit/mast
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Formula
-<a target="_blank"><img src="https://latex.codecogs.com/gif.latex?E=mc^2&space;\Delta&space;=&space;\frac{b^{2}-4ac}{2}" title="E=mc^2 \Delta = \frac{b^{2}-4ac}{2}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=E=mc^2&space;\Delta&space;=&space;\frac{b^{2}-4ac}{2}" target="_blank">
+  <img src="https://latex.codecogs.com/gif.latex?E=mc^2&space;\Delta&space;=&space;\frac{b^{2}-4ac}{2}" title="E=mc^2 \Delta = \frac{b^{2}-4ac}{2}" />
+</a>
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=E=mc^2&space;\Delta&space;=&space;\frac{b^{2}-4ac}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E=mc^2&space;\Delta&space;=&space;\frac{b^{2}-4ac}{2}" title="E=mc^2 \Delta = \frac{b^{2}-4ac}{2}" /></a>
+### History
+<a>
+<img src="https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png" title="AI-ML-DL"/>
+</a>
+
 
 ### Markdown
 
