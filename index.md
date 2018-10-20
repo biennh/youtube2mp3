@@ -34,7 +34,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) and ![Herding cats: Picking images of cats out of YouTube videos was one of the first breakthrough demonstrations of deep learning.](https://blogs.nvidia.com/wp-content/uploads/2016/07/orange_cat-1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
